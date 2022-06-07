@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
+
+I'm Federico, a Fullstack Developer
+
+Passionate about building things, software is my favourite. Nothing feels like seeing something you and your collaborators made come to life.
+Starting something very small and adding pieces to it, improving it, is immensely rewarding.
+
+My current skills:
+
 
 <!--
 **federicoacuna/federicoacuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
